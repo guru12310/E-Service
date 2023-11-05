@@ -1,0 +1,147 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+
+}
+body{
+ background-image: url("image/photo.jpg");
+}
+#header{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    background-color: darkkhaki;
+}
+#main{
+    display: flex;
+    margin-top: 2rem;
+    justify-content: center;
+}
+#second{
+    display: flex;
+    justify-content: center;
+}
+.gov{
+    align-items: center;
+    margin-left: 45%;
+}
+.alogo{
+    height: 5rem;
+    width: 14rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+}
+.Aadhaar{
+    margin-right: 5rem;
+    margin-bottom: 2rem;
+    background-color: Moccasin;
+    height: 15rem;
+    width: 18rem;
+    text-align: center;
+    padding: 3rem 10px;
+}
+.Download{
+    padding: 1rem 10px;
+}
+.Pan{
+    margin-left: 5rem;
+    background-color: Moccasin;
+    height: 15rem;
+    width: 18rem;
+    text-align: center;
+    padding: 3rem 10px;
+}
+.Community{
+    margin-left: 10rem;
+    background-color: Moccasin;
+    height: 15rem;
+    width: 18rem;
+    text-align: center;
+    padding: 3rem 10px;
+}
+.Income{
+    margin-right: 5rem;
+    background-color: Moccasin;
+    height: 15rem;
+    width: 18rem;
+    text-align: center;
+    padding: 3rem 10px;
+}
+.Nativity{
+    margin-left: 5rem;
+    background-color: Moccasin;
+    height: 15rem;
+    width: 18rem;
+    text-align: center;
+    padding: 3rem 10px;
+}
+.Birth{
+    margin-left: 10rem;
+    background-color: Moccasin;
+    height: 15rem;
+    width: 18rem;
+    text-align: center;
+    padding: 3rem 10px;
+}
+.highlight{
+    text-decoration: none;
+}
+.Aadhaar:hover{
+    background-color: deepskyblue;
+    box-shadow: 0 0 5px #000000;
+    transform: scale(1.2);
+}
+.Pan:hover{
+    background-color: deepskyblue;
+    box-shadow: 0 0 5px #000000;
+    transform: scale(1.2);
+}
+.Community:hover{
+    background-color: deepskyblue;
+    box-shadow: 0 0 5px #000000;
+    transform: scale(1.2);
+}
+.Income:hover{
+    background-color: deepskyblue;
+    box-shadow: 0 0 5px #000000;
+    transform: scale(1.2);
+}
+.Nativity:hover{
+    background-color: deepskyblue;
+    box-shadow: 0 0 5px #000000;
+    transform: scale(1.2);
+}
+.Birth:hover{
+    background-color: deepskyblue;
+    box-shadow: 0 0 5px #000000;
+    transform: scale(1.2);
+}
+a{
+    color: inherit;
+}
+.about{
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;;
+    width: 9rem;
+    height: 3rem;
+    background-color: aliceblue;
+    margin-left: 89%;
+}
+.about:hover{
+    background-color:rgb(122, 186, 255);
+    transform: scale(1.1);
+}
+.gov{
+    margin-top: 2rem;
+}
+footer{
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1rem;
+    text-decoration: none;
+}
+hr{
+    margin-top: 3rem;
+    background-color: #000000;
+}
